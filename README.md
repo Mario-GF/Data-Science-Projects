@@ -21,3 +21,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 - **Technologies Used:** The notebooks uses Random Forest Classifier and Decision Tree Classifier
 - **Results:** The Decision Tree Classifier performed well with an accuracy of 91.4%
   
+5. [Road Sign Detection using Yolov5](https://github.com/Mario-GF/Data-Science-Projects/blob/main/RoadSign/road-sign-detection-yolov5.ipynb)
+- **Description:** TThe Road Sign Detection project leverages YOLOv5, a state-of-the-art object detection algorithm, to detect road signs in images or video streams
+- **Technologies Used:** he project utilizes the YOLOv5 object detection algorithm
+- **Results:** The YOLOv5 model demonstrates high accuracy and efficiency in detecting road signs
