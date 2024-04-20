@@ -5,7 +5,7 @@
 
 ## data
 
-The video I used in this tutorial can be downloaded [here](https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/).
+The video I used  can be downloaded [here](https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/).
 
 ## models
 
